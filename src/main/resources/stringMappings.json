@@ -1,0 +1,42 @@
+[
+  {
+    "code": 0,
+    "text": "Ich komme später.",
+    "kurz": "später",
+    "antwort": [
+      "ok",
+      "nein"
+    ],
+    "anzeige": [
+      "KIND"
+    ]
+  },
+  {
+    "code": 1,
+    "text": "Ich bin zu Hause.",
+    "kurz": "Daheim",
+    "antwort": [
+      "ok"
+    ],
+    "anzeige": [
+      "KIND"
+    ]
+  },
+  {
+    "code": 2,
+    "text": "Ich gehe heute über...",
+    "kurz": "über",
+    "auswahl": [
+      {
+        "Neurod": 0,
+        "Hasenhägweg": 1
+      }
+    ],
+    "antwort": [
+      "ok"
+    ],
+    "anzeige": [
+      "KIND"
+    ]
+  }
+]
