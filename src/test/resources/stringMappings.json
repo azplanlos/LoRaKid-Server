@@ -8,7 +8,7 @@
       "nein"
     ],
     "anzeige": [
-      "KIND"
+      "KID"
     ]
   },
   {
@@ -19,24 +19,22 @@
       "ok"
     ],
     "anzeige": [
-      "KIND"
+      "KID"
     ]
   },
   {
     "code": 2,
     "text": "Ich gehe heute über...",
     "kurz": "über",
-    "auswahl": [
-      {
-        "Neurod": 0,
-        "Hasenhägweg": 1
-      }
-    ],
+    "auswahl": {
+      "Neurod": 0,
+      "Hasenhägweg": 1
+    },
     "antwort": [
       "ok"
     ],
     "anzeige": [
-      "KIND"
+      "KID"
     ]
   }
 ]
